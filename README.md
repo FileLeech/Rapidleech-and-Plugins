@@ -1,7 +1,7 @@
 # Database of plugins and templates for Rapidleech
 Rapidleech, vinaget... download/upload plugins and Templates
 
-This repository serves as a "database" of plugins and templates for projects such as Rapidleech, Vinaget among others. And participation of stakeholders in the continuity of these projects insita, and assist with the development of new plugins and templates. This repostorio is unofficial.
+This repository serves as a "database" of plugins and templates for projects such as Rapidleech, Vinaget among others. And participation of stakeholders in the continuity of these projects insita, and assist with the development of new plugins and templates. This repository is unofficial.
 
 
 Get Notifications ~ **Click in Watch**
